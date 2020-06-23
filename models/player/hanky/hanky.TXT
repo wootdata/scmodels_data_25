@@ -1,0 +1,21 @@
+Mr. Hankey (South Park) -  Half-Life character  -  readme.txt
+March 22, 1999
+--------------------------------
+Character Stats:
+polys		272
+verts		194
+texture		256x256x256
+chrome		NO
+animation	Half-Life
+--------------------------------
+Character Info:
+This character is based on the turd
+from the South Park tv show.  Studio Max
+took a dump and this waz the result.
+It's done.
+WHATA RELIEF!!! Damn laxitive!
+--------------------------------
+
+Edwin Reck	
+ereck@inlandprod.com
+http://www.inlandprod.com

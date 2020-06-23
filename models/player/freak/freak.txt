@@ -1,0 +1,16 @@
+Freak
+November 11, 2000
+-------------------------------
+bones       4828 bytes (32)
+sequences 221988 bytes (1741 frames) [1:58]
+vertices    9652 bytes (373 vertices, 369 normals)
+mesh        8804 bytes (731 tris, 163 strips)
+models     18644 bytes
+textures   66388 bytes
+total     311848
+-------------------------------
+Extract the files to half-life\valve\models\players\Freak\.
+
+
+Thalakos (Johannes Bill)
+jbill@gmx.net

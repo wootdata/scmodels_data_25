@@ -1,1 +1,1 @@
-{"seq_groups": 1, "events": [{"frame": "1", "seq": "51", "file": "player/playersounds/ump9/weapget04.wav"}], "tri_count": "66262", "hash": "1d72684365cdb345ace3563a825c5591"}
+{"events": [{"file": "player/playersounds/ump9/weapget04.wav", "frame": "1", "seq": "51"}], "tri_count": "66262", "hash": "1d72684365cdb345ace3563a825c5591", "seq_groups": 1}

@@ -1,1 +1,92 @@
-{"seq_groups": 1, "hash": "7ba75cade4d39ef6e31d33a73831e101", "tri_count": "2195"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "reference",
+					"polys": 918,
+					"verts": 514
+				}, 
+				{
+					"name": "destroyed",
+					"polys": 927,
+					"verts": 514
+				}, 
+				{
+					"name": "gear1",
+					"polys": 108,
+					"verts": 60
+				}, 
+				{
+					"name": "wing",
+					"polys": 66,
+					"verts": 35
+				}, 
+				{
+					"name": "engine",
+					"polys": 88,
+					"verts": 46
+				}, 
+				{
+					"name": "engine_destroyed",
+					"polys": 88,
+					"verts": 46
+				}
+			],
+			"name": "me262"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "7ba75cade4d39ef6e31d33a73831e101",
+	"name": "U:\\dod\\models\\mapmodels\\me262\\compile\\me262.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 1.000000,
+			"frames": 101,
+			"name": "idle"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "skin1",
+			"parent": -1
+		}, 
+		{
+			"name": "Object01",
+			"parent": -1
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "skin1.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "skin2.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "skin1_destroyed.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "skin2_destroyed.bmp",
+			"width": 128
+		}
+	],
+	"version": 10
+}

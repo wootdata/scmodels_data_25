@@ -1,1 +1,387 @@
-{"seq_groups": 1, "hash": "6b646bb186f3a891975bb35646e81cf7", "tri_count": "326", "events": [{"seq": "1", "frame": "6", "file": "garg/gar_attack1.wav"}]}
+{
+	"attachments": [
+		{
+			"bone": 8,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 8,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 8,
+			"name": "",
+			"type": 0
+		}
+	],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "w_snark_reference",
+					"polys": 326,
+					"verts": 180
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"controllers": [
+		{
+			"bone": 8,
+			"end": 60.000000,
+			"index": 0,
+			"rest": 0,
+			"start": -60.000000,
+			"type": 8
+		}, 
+		{
+			"bone": 8,
+			"end": 35.000000,
+			"index": 1,
+			"rest": 0,
+			"start": -35.000000,
+			"type": 32
+		}
+	],
+	"events": [
+		{
+			"event": 6,
+			"frame": 7,
+			"options": "",
+			"sequence": 0,
+			"type": 0
+		}, 
+		{
+			"event": 1008,
+			"frame": 6,
+			"options": "garg/gar_attack1.wav",
+			"sequence": 1,
+			"type": 0
+		}, 
+		{
+			"event": 3,
+			"frame": 0,
+			"options": "",
+			"sequence": 4,
+			"type": 0
+		}, 
+		{
+			"event": 6,
+			"frame": 6,
+			"options": "",
+			"sequence": 4,
+			"type": 0
+		}, 
+		{
+			"event": 4,
+			"frame": 8,
+			"options": "",
+			"sequence": 4,
+			"type": 0
+		}, 
+		{
+			"event": 3,
+			"frame": 8,
+			"options": "",
+			"sequence": 5,
+			"type": 0
+		}, 
+		{
+			"event": 4,
+			"frame": 8,
+			"options": "",
+			"sequence": 5,
+			"type": 0
+		}, 
+		{
+			"event": 1,
+			"frame": 14,
+			"options": "",
+			"sequence": 8,
+			"type": 0
+		}, 
+		{
+			"event": 5,
+			"frame": 9,
+			"options": "",
+			"sequence": 9,
+			"type": 0
+		}, 
+		{
+			"event": 1003,
+			"frame": 14,
+			"options": "roll",
+			"sequence": 18,
+			"type": 0
+		}, 
+		{
+			"event": 1003,
+			"frame": 9,
+			"options": "roar3",
+			"sequence": 18,
+			"type": 0
+		}, 
+		{
+			"event": 1003,
+			"frame": 14,
+			"options": "stomp1",
+			"sequence": 18,
+			"type": 0
+		}, 
+		{
+			"event": 1003,
+			"frame": 8,
+			"options": "kick",
+			"sequence": 19,
+			"type": 0
+		}, 
+		{
+			"event": 1003,
+			"frame": 8,
+			"options": "stomp",
+			"sequence": 19,
+			"type": 0
+		}, 
+		{
+			"event": 1003,
+			"frame": 12,
+			"options": "roar1",
+			"sequence": 19,
+			"type": 0
+		}, 
+		{
+			"event": 1003,
+			"frame": 9,
+			"options": "push",
+			"sequence": 20,
+			"type": 0
+		}, 
+		{
+			"event": 1003,
+			"frame": 9,
+			"options": "step1",
+			"sequence": 20,
+			"type": 0
+		}, 
+		{
+			"event": 1003,
+			"frame": 23,
+			"options": "step2",
+			"sequence": 20,
+			"type": 0
+		}, 
+		{
+			"event": 1003,
+			"frame": 24,
+			"options": "roar2",
+			"sequence": 20,
+			"type": 0
+		}, 
+		{
+			"event": 1003,
+			"frame": 30,
+			"options": "step1",
+			"sequence": 20,
+			"type": 0
+		}, 
+		{
+			"event": 1003,
+			"frame": 9,
+			"options": "stomp",
+			"sequence": 21,
+			"type": 0
+		}
+	],
+	"id": 1414743113,
+	"md5": "6b646bb186f3a891975bb35646e81cf7",
+	"name": "C:\\Milkie_project1\\garg.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 10.000000,
+			"frames": 31,
+			"name": "idle3"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 31,
+			"name": "idle2"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 31,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 31,
+			"name": "idle4"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 9,
+			"name": "walk"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 9,
+			"name": "run"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 9,
+			"name": "shootflames1"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 9,
+			"name": "shootflames2"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 15,
+			"name": "Attack"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 10,
+			"name": "stomp"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 1,
+			"name": "180left"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 1,
+			"name": "180right"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 1,
+			"name": "Flinchlight"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 1,
+			"name": "Flinchheavy"
+		}, 
+		{
+			"fps": 9.000000,
+			"frames": 10,
+			"name": "die"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 15,
+			"name": "bitehead"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 15,
+			"name": "throwbody"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 15,
+			"name": "smash"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 15,
+			"name": "rollcar"
+		}, 
+		{
+			"fps": 22.000000,
+			"frames": 15,
+			"name": "kickcar"
+		}, 
+		{
+			"fps": 22.000000,
+			"frames": 31,
+			"name": "pushcar"
+		}, 
+		{
+			"fps": 22.000000,
+			"frames": 15,
+			"name": "bust"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Bip01",
+			"parent": -1
+		}, 
+		{
+			"name": "Bip01 Pelvis",
+			"parent": 0
+		}, 
+		{
+			"name": "Bip01 L Thigh",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 L Calf",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 R Thigh",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 R Calf",
+			"parent": 4
+		}, 
+		{
+			"name": "Bip01 Spine",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 7
+		}, 
+		{
+			"name": "Bip01 L Clavicle",
+			"parent": 7
+		}, 
+		{
+			"name": "Bip01 L UpperArm",
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 L Forearm",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 R Clavicle",
+			"parent": 7
+		}, 
+		{
+			"name": "Bip01 R UpperArm",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 R Forearm",
+			"parent": 13
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "Snark_world_reference.BMP",
+			"width": 128
+		}
+	],
+	"version": 10
+}

@@ -1,1 +1,93 @@
-{"seq_groups": 1, "hash": "40c5117e6656d8730954d16ae24dba2f", "tri_count": "1931"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "./reference",
+					"polys": 1931,
+					"verts": 996
+				}
+			],
+			"name": "body"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "40c5117e6656d8730954d16ae24dba2f",
+	"name": "C:\\Backup\\Bumper Car Models\\Models\\ns\\ns.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 1.000000,
+			"frames": 1,
+			"name": "seq-name"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "joint35",
+			"parent": -1
+		}, 
+		{
+			"name": "joint36",
+			"parent": 0
+		}, 
+		{
+			"name": "joint37",
+			"parent": 1
+		}, 
+		{
+			"name": "joint38",
+			"parent": 2
+		}, 
+		{
+			"name": "joint39",
+			"parent": 3
+		}, 
+		{
+			"name": "joint40",
+			"parent": 4
+		}, 
+		{
+			"name": "joint41",
+			"parent": 5
+		}, 
+		{
+			"name": "joint42",
+			"parent": 6
+		}, 
+		{
+			"name": "joint43",
+			"parent": 7
+		}, 
+		{
+			"name": "joint44",
+			"parent": 8
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "alien_level5.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "Marine_final.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "Leather.bmp",
+			"width": 128
+		}
+	],
+	"version": 10
+}

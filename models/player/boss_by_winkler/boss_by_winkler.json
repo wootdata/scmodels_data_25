@@ -1363,19 +1363,19 @@
 		{
 			"flags": 64,
 			"height": 508,
-			"name": "보스_01.BMP",
+			"name": "_01.BMP",
 			"width": 508
 		}, 
 		{
 			"flags": 0,
 			"height": 503,
-			"name": "보스_03.BMP",
+			"name": "_03.BMP",
 			"width": 508
 		}, 
 		{
 			"flags": 0,
 			"height": 508,
-			"name": "보스_02.BMP",
+			"name": "_02.BMP",
 			"width": 508
 		}
 	],

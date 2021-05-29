@@ -1172,6 +1172,7 @@
 			"name": "crouch_reload_saw"
 		}
 	],
+	"size": 848008,
 	"skeleton": [
 		{
 			"name": "Bip01",

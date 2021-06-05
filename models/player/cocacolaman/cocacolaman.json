@@ -1,22 +1,12 @@
 {
 	"attachments": [
 		{
-			"bone": 20,
+			"bone": 15,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 20,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 20,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 10,
+			"bone": 11,
 			"name": "",
 			"type": 0
 		}
@@ -25,32 +15,92 @@
 		{
 			"models": [
 				{
-					"name": "SC_female_torso_ref",
-					"polys": 2626,
-					"verts": 1186
+					"name": "cocacolaman_p0",
+					"polys": 590,
+					"verts": 716
 				}
 			],
-			"name": "torso"
+			"name": "studio"
 		}, 
 		{
 			"models": [
 				{
-					"name": "SC_caroline_head_ref",
-					"polys": 2545,
-					"verts": 1935
+					"name": "cocacolaman_p1",
+					"polys": 472,
+					"verts": 252
 				}
 			],
-			"name": "helmet"
+			"name": "studio"
 		}, 
 		{
 			"models": [
 				{
-					"name": "SC_female_legs_ref",
-					"polys": 916,
-					"verts": 509
+					"name": "cocacolaman_p2",
+					"polys": 1586,
+					"verts": 805
 				}
 			],
-			"name": "legs"
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "cocacolaman_p3",
+					"polys": 1810,
+					"verts": 929
+				}
+			],
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "cocacolaman_p4",
+					"polys": 1726,
+					"verts": 924
+				}
+			],
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "cocacolaman_p5",
+					"polys": 2112,
+					"verts": 1114
+				}
+			],
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "cocacolaman_p6",
+					"polys": 2128,
+					"verts": 1131
+				}
+			],
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "cocacolaman_p7",
+					"polys": 2250,
+					"verts": 1197
+				}
+			],
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "cocacolaman_p8",
+					"polys": 3204,
+					"verts": 1611
+				}
+			],
+			"name": "studio"
 		}
 	],
 	"controllers": [
@@ -85,14 +135,6 @@
 			"rest": 0,
 			"start": -30.000000,
 			"type": 8
-		}, 
-		{
-			"bone": 28,
-			"end": 15.000000,
-			"index": 4,
-			"rest": 0,
-			"start": 0.000000,
-			"type": 32
 		}
 	],
 	"events": [
@@ -329,8 +371,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "e3e299c71558257ddfba877c9f375feb",
-	"name": "test3.mdl",
+	"md5": "c714d0dc3268dac76cfec1b7a5eeec38",
+	"name": "cocacolaman.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -380,7 +422,7 @@
 		}, 
 		{
 			"fps": 24.000000,
-			"frames": 37,
+			"frames": 21,
 			"name": "long_jump"
 		}, 
 		{
@@ -1289,7 +1331,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 2762972,
+	"size": 1476404,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1320,44 +1362,24 @@
 			"parent": 5
 		}, 
 		{
+			"name": "Bip01 Head",
+			"parent": 6
+		}, 
+		{
 			"name": "Bip01 L Arm",
 			"parent": 6
 		}, 
 		{
 			"name": "Bip01 L Arm1",
-			"parent": 7
-		}, 
-		{
-			"name": "Bip01 L Arm2",
 			"parent": 8
 		}, 
 		{
-			"name": "Bip01 L Hand",
+			"name": "Bip01 L Arm2",
 			"parent": 9
 		}, 
 		{
-			"name": "Bip01 L Finger0",
+			"name": "Bip01 L Hand",
 			"parent": 10
-		}, 
-		{
-			"name": "Bip01 L Finger01",
-			"parent": 11
-		}, 
-		{
-			"name": "Bip01 L Finger02",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 L Finger1",
-			"parent": 10
-		}, 
-		{
-			"name": "Bip01 L Finger11",
-			"parent": 14
-		}, 
-		{
-			"name": "Bip01 L Finger12",
-			"parent": 15
 		}, 
 		{
 			"name": "Bip01 R Arm",
@@ -1365,47 +1387,15 @@
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 17
+			"parent": 12
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 18
+			"parent": 13
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 19
-		}, 
-		{
-			"name": "Bip01 R Finger0",
-			"parent": 20
-		}, 
-		{
-			"name": "Bip01 R Finger01",
-			"parent": 21
-		}, 
-		{
-			"name": "Bip01 R Finger02",
-			"parent": 22
-		}, 
-		{
-			"name": "Bip01 R Finger1",
-			"parent": 20
-		}, 
-		{
-			"name": "Bip01 R Finger11",
-			"parent": 24
-		}, 
-		{
-			"name": "Bip01 R Finger12",
-			"parent": 25
-		}, 
-		{
-			"name": "Bip01 Head",
-			"parent": 6
-		}, 
-		{
-			"name": "mouth",
-			"parent": 27
+			"parent": 14
 		}, 
 		{
 			"name": "Bip01 L Leg",
@@ -1413,11 +1403,11 @@
 		}, 
 		{
 			"name": "Bip01 L Leg1",
-			"parent": 29
+			"parent": 16
 		}, 
 		{
 			"name": "Bip01 L Foot",
-			"parent": 30
+			"parent": 17
 		}, 
 		{
 			"name": "Bip01 R Leg",
@@ -1425,105 +1415,27 @@
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 32
+			"parent": 19
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 33
+			"parent": 20
 		}
 	],
 	"skins": 1,
-	"t_model": false,
+	"t_model": true,
 	"textures": [
 		{
 			"flags": 0,
-			"height": 512,
-			"name": "RemapB_128_255_255.bmp",
-			"width": 512
-		}, 
-		{
-			"flags": 0,
-			"height": 348,
-			"name": "RemapA_000_255_255.bmp",
-			"width": 404
-		}, 
-		{
-			"flags": 0,
-			"height": 65,
-			"name": "elbow.bmp",
-			"width": 128
-		}, 
-		{
-			"flags": 3,
-			"height": 64,
-			"name": "PLAYER_Chrome1.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 0,
-			"height": 512,
-			"name": "Sven_HEV_Glove.bmp",
-			"width": 512
-		}, 
-		{
-			"flags": 3,
-			"height": 64,
-			"name": "Chrome_50Gry1.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 0,
-			"height": 64,
-			"name": "latex.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 64,
-			"height": 256,
-			"name": "sclogotrans.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 0,
-			"height": 256,
-			"name": "HEV_neck.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 0,
 			"height": 128,
-			"name": "eye.bmp",
+			"name": "default.bmp",
 			"width": 128
 		}, 
 		{
 			"flags": 0,
-			"height": 128,
-			"name": "mouth.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 0,
 			"height": 512,
-			"name": "caroline_necktie.bmp",
+			"name": "tx_body_M.bmp",
 			"width": 512
-		}, 
-		{
-			"flags": 0,
-			"height": 512,
-			"name": "hair.bmp",
-			"width": 512
-		}, 
-		{
-			"flags": 0,
-			"height": 512,
-			"name": "caroline_facemap.bmp",
-			"width": 512
-		}, 
-		{
-			"flags": 0,
-			"height": 73,
-			"name": "knee.bmp",
-			"width": 256
 		}
 	],
 	"version": 10

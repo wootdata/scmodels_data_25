@@ -1,17 +1,12 @@
 {
 	"attachments": [
 		{
-			"bone": 20,
+			"bone": 10,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 20,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 20,
+			"bone": 10,
 			"name": "",
 			"type": 0
 		}, 
@@ -25,76 +20,15 @@
 		{
 			"models": [
 				{
-					"name": "SC_female_torso_ref",
-					"polys": 2626,
-					"verts": 1186
+					"name": "coldbernie",
+					"polys": 8,
+					"verts": 16
 				}
 			],
-			"name": "torso"
-		}, 
-		{
-			"models": [
-				{
-					"name": "SC_caroline_head_ref",
-					"polys": 2545,
-					"verts": 1935
-				}
-			],
-			"name": "helmet"
-		}, 
-		{
-			"models": [
-				{
-					"name": "SC_female_legs_ref",
-					"polys": 916,
-					"verts": 509
-				}
-			],
-			"name": "legs"
+			"name": "body"
 		}
 	],
-	"controllers": [
-		{
-			"bone": 2,
-			"end": 30.000000,
-			"index": 0,
-			"rest": 0,
-			"start": -30.000000,
-			"type": 8
-		}, 
-		{
-			"bone": 3,
-			"end": 30.000000,
-			"index": 1,
-			"rest": 0,
-			"start": -30.000000,
-			"type": 8
-		}, 
-		{
-			"bone": 4,
-			"end": 30.000000,
-			"index": 2,
-			"rest": 0,
-			"start": -30.000000,
-			"type": 8
-		}, 
-		{
-			"bone": 5,
-			"end": 30.000000,
-			"index": 3,
-			"rest": 0,
-			"start": -30.000000,
-			"type": 8
-		}, 
-		{
-			"bone": 28,
-			"end": 15.000000,
-			"index": 4,
-			"rest": 0,
-			"start": 0.000000,
-			"type": 32
-		}
-	],
+	"controllers": [],
 	"events": [
 		{
 			"event": 2001,
@@ -329,8 +263,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "e3e299c71558257ddfba877c9f375feb",
-	"name": "test3.mdl",
+	"md5": "f437cb0be4920d1a7910fcfd78abaf8a",
+	"name": "2d_cold_bernie.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1287,9 +1221,14 @@
 			"fps": 10.000000,
 			"frames": 22,
 			"name": "action_wave"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 99,
+			"name": "Model_and_texture_by_Gauna"
 		}
 	],
-	"size": 2762972,
+	"size": 760112,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1320,210 +1259,68 @@
 			"parent": 5
 		}, 
 		{
-			"name": "Bip01 L Arm",
-			"parent": 6
-		}, 
-		{
-			"name": "Bip01 L Arm1",
-			"parent": 7
-		}, 
-		{
-			"name": "Bip01 L Arm2",
-			"parent": 8
-		}, 
-		{
-			"name": "Bip01 L Hand",
-			"parent": 9
-		}, 
-		{
-			"name": "Bip01 L Finger0",
-			"parent": 10
-		}, 
-		{
-			"name": "Bip01 L Finger01",
-			"parent": 11
-		}, 
-		{
-			"name": "Bip01 L Finger02",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 L Finger1",
-			"parent": 10
-		}, 
-		{
-			"name": "Bip01 L Finger11",
-			"parent": 14
-		}, 
-		{
-			"name": "Bip01 L Finger12",
-			"parent": 15
-		}, 
-		{
 			"name": "Bip01 R Arm",
 			"parent": 6
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 17
+			"parent": 7
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 18
+			"parent": 8
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 19
+			"parent": 9
 		}, 
 		{
-			"name": "Bip01 R Finger0",
-			"parent": 20
-		}, 
-		{
-			"name": "Bip01 R Finger01",
-			"parent": 21
-		}, 
-		{
-			"name": "Bip01 R Finger02",
-			"parent": 22
-		}, 
-		{
-			"name": "Bip01 R Finger1",
-			"parent": 20
-		}, 
-		{
-			"name": "Bip01 R Finger11",
-			"parent": 24
-		}, 
-		{
-			"name": "Bip01 R Finger12",
-			"parent": 25
-		}, 
-		{
-			"name": "Bip01 Head",
-			"parent": 6
-		}, 
-		{
-			"name": "mouth",
-			"parent": 27
-		}, 
-		{
-			"name": "Bip01 L Leg",
+			"name": "s1",
 			"parent": 1
 		}, 
 		{
-			"name": "Bip01 L Leg1",
-			"parent": 29
-		}, 
-		{
-			"name": "Bip01 L Foot",
-			"parent": 30
-		}, 
-		{
-			"name": "Bip01 R Leg",
+			"name": "s2",
 			"parent": 1
 		}, 
 		{
-			"name": "Bip01 R Leg1",
-			"parent": 32
+			"name": "s3",
+			"parent": 1
 		}, 
 		{
-			"name": "Bip01 R Foot",
-			"parent": 33
+			"name": "s4",
+			"parent": 1
+		}, 
+		{
+			"name": "c1",
+			"parent": 1
+		}, 
+		{
+			"name": "c2",
+			"parent": 1
+		}, 
+		{
+			"name": "c3",
+			"parent": 1
+		}, 
+		{
+			"name": "c4",
+			"parent": 1
 		}
 	],
 	"skins": 1,
 	"t_model": false,
 	"textures": [
 		{
-			"flags": 0,
-			"height": 512,
-			"name": "RemapB_128_255_255.bmp",
-			"width": 512
+			"flags": 68,
+			"height": 416,
+			"name": "eb4_1a.bmp",
+			"width": 368
 		}, 
 		{
-			"flags": 0,
-			"height": 348,
-			"name": "RemapA_000_255_255.bmp",
-			"width": 404
-		}, 
-		{
-			"flags": 0,
-			"height": 65,
-			"name": "elbow.bmp",
-			"width": 128
-		}, 
-		{
-			"flags": 3,
-			"height": 64,
-			"name": "PLAYER_Chrome1.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 0,
-			"height": 512,
-			"name": "Sven_HEV_Glove.bmp",
-			"width": 512
-		}, 
-		{
-			"flags": 3,
-			"height": 64,
-			"name": "Chrome_50Gry1.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 0,
-			"height": 64,
-			"name": "latex.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 64,
-			"height": 256,
-			"name": "sclogotrans.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 0,
-			"height": 256,
-			"name": "HEV_neck.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 0,
-			"height": 128,
-			"name": "eye.bmp",
-			"width": 128
-		}, 
-		{
-			"flags": 0,
-			"height": 128,
-			"name": "mouth.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 0,
-			"height": 512,
-			"name": "caroline_necktie.bmp",
-			"width": 512
-		}, 
-		{
-			"flags": 0,
-			"height": 512,
-			"name": "hair.bmp",
-			"width": 512
-		}, 
-		{
-			"flags": 0,
-			"height": 512,
-			"name": "caroline_facemap.bmp",
-			"width": 512
-		}, 
-		{
-			"flags": 0,
-			"height": 73,
-			"name": "knee.bmp",
-			"width": 256
+			"flags": 68,
+			"height": 416,
+			"name": "eb4_1b.bmp",
+			"width": 368
 		}
 	],
 	"version": 10

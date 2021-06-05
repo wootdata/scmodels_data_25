@@ -1,0 +1,1 @@
+Fix for Sven-coop 5.0 by Python : remove walking T pose, and new idle animation.

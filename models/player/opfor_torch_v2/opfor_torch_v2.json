@@ -25,9 +25,9 @@
 		{
 			"models": [
 				{
-					"name": "opfor_torch_Raptor",
-					"polys": 3761,
-					"verts": 1997
+					"name": "Raptor",
+					"polys": 3767,
+					"verts": 2002
 				}
 			],
 			"name": "body"
@@ -301,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "124825bc0af7f5acafdb18f1c9df6595",
-	"name": "opfor_torch.mdl",
+	"md5": "dbcf17e80a5aa0c8326c7719e3bbe1a8",
+	"name": "torch.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1214,54 +1214,9 @@
 			"fps": 10.000000,
 			"frames": 1,
 			"name": "ShannonCaldwell_v1.2"
-		}, 
-		{
-			"fps": 20.000000,
-			"frames": 9,
-			"name": "barnaclehit"
-		}, 
-		{
-			"fps": 25.000000,
-			"frames": 81,
-			"name": "barnaclepull"
-		}, 
-		{
-			"fps": 18.000000,
-			"frames": 36,
-			"name": "barnaclecrunch"
-		}, 
-		{
-			"fps": 15.000000,
-			"frames": 36,
-			"name": "barnaclechew"
-		}, 
-		{
-			"fps": 10.000000,
-			"frames": 21,
-			"name": "use_console_loop"
-		}, 
-		{
-			"fps": 20.000000,
-			"frames": 201,
-			"name": "use_console_loop2"
-		}, 
-		{
-			"fps": 18.000000,
-			"frames": 66,
-			"name": "action_retina"
-		}, 
-		{
-			"fps": 12.000000,
-			"frames": 81,
-			"name": "action_studycart"
-		}, 
-		{
-			"fps": 10.000000,
-			"frames": 22,
-			"name": "action_wave"
 		}
 	],
-	"size": 1506704,
+	"size": 1455900,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1405,6 +1360,18 @@
 	"textures": [
 		{
 			"flags": 0,
+			"height": 256,
+			"name": "soldier_head_grunt_wht.bmp",
+			"width": 384
+		}, 
+		{
+			"flags": 0,
+			"height": 192,
+			"name": "soldier_helmet.bmp",
+			"width": 96
+		}, 
+		{
+			"flags": 0,
 			"height": 384,
 			"name": "soldier_body.bmp",
 			"width": 384
@@ -1459,18 +1426,6 @@
 		}, 
 		{
 			"flags": 0,
-			"height": 256,
-			"name": "soldier_head_torch_wht.bmp",
-			"width": 384
-		}, 
-		{
-			"flags": 0,
-			"height": 192,
-			"name": "soldier_helmet.bmp",
-			"width": 96
-		}, 
-		{
-			"flags": 0,
 			"height": 126,
 			"name": "torso_torch.bmp",
 			"width": 136
@@ -1484,7 +1439,7 @@
 		{
 			"flags": 3,
 			"height": 64,
-			"name": "soldier_goggle_chrome.bmp",
+			"name": "chrome22.bmp",
 			"width": 64
 		}
 	],

@@ -12,6 +12,7 @@
 			"name": "david"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 20,
@@ -133,7 +134,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8f04a9f751fa73b571d7e8a17b0f5449",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "david_monster_axe.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

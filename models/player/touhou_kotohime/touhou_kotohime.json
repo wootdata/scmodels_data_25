@@ -52,6 +52,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -715,7 +716,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3ed201e1de5ac4559a4fbc10c6fb6e45",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "kotohime.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

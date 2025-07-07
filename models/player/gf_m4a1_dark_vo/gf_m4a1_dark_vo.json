@@ -143,6 +143,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -787,7 +788,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a3704e4d580bfa17359e7f5b0eb96701",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "gfl_m4a1_dark.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

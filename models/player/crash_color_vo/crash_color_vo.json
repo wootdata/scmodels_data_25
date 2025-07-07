@@ -33,6 +33,7 @@
 			"name": "Crash_Color"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -282,7 +283,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4defec4d33a1b5892500ea103a3d7187",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Crash_Color.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

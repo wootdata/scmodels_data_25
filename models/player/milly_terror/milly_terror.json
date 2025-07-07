@@ -43,6 +43,7 @@
 			"name": "kao"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -341,7 +342,11 @@
 	],
 	"id": 1414743113,
 	"md5": "44cea01502bb8a1c3c90a60afb73f851",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Milly_terror.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

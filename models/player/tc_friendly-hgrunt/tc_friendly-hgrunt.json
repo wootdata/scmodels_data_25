@@ -58,6 +58,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -328,7 +329,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9c58080c527b336997b4c00ce75108f3",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "TC_AdrianShephard(friendly).mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

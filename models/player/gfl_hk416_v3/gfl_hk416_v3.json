@@ -133,6 +133,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -812,7 +813,11 @@
 	],
 	"id": 1414743113,
 	"md5": "86e7be7282fe7b00b7edc98a72d839d6",
+	"metahook_external": true,
+	"metahook_ragdoll": true,
 	"name": "GFL_HK416.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

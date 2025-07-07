@@ -38,6 +38,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -308,7 +309,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a3e0a8b2492760ea78f7026c270a793b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "../compiled/cryoffear_police2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

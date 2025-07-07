@@ -13,3 +13,8 @@ Original Author:
 Some dude on the AHL Team I spose ?
 Re-Animated to SC3 by a lazy LaggedRabbit
 
+
+-----------------
+babewire_fix.txt
+-----------------
+Fix for Sven-coop 5.0 by Python : remove walking T pose, and new idle animation.

@@ -33,6 +33,7 @@
 			"name": "Scuba_Crash"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -282,7 +283,11 @@
 	],
 	"id": 1414743113,
 	"md5": "72b68aed8f9e714fdc7b266b877437ad",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Scuba_Crash.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

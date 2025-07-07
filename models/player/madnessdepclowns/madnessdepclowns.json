@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 16,
@@ -737,7 +738,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ea959d983277cc0d84bec0c8a70f8b50",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Models\\madnessdepclowns.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

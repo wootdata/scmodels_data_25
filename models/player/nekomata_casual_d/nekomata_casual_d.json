@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "411b89ab43d4b6dd3bc82a7d7a46fee3",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "nekomata_casual_d.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

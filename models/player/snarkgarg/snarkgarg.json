@@ -28,6 +28,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -198,7 +199,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6b646bb186f3a891975bb35646e81cf7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Milkie_project1\\garg.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

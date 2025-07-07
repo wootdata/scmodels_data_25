@@ -113,6 +113,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -391,7 +392,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0de2d3359545bead42012d8c60ea4091",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "momiji_inubashiri.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

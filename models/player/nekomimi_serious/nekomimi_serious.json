@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -284,7 +285,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0b8af5e1a48fc8dada7deaa94276bfa5",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "nekomimi_serious.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

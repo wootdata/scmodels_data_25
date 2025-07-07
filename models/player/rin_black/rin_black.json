@@ -193,6 +193,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -865,7 +866,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6759fd633f6f02388649dd29b079de24",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Rin_black.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

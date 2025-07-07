@@ -33,6 +33,7 @@
 			"name": "ed"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -311,7 +312,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d510bc4877185de40fff453d1f396451",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "EEE_ed.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

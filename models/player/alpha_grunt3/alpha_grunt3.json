@@ -38,6 +38,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 7,
@@ -284,7 +285,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b69a738b1cbeac8dacb26b064870b8a6",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "alpha_grunt.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 14,
@@ -261,7 +262,11 @@
 	],
 	"id": 1414743113,
 	"md5": "fb7427b1c2a86eddefac3ed933b9b87a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Documents and Settings\\Si-Co Cid\\My Documents\\Vox\\Personal Pr;",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f591e60c4b84489b6c6ba7728935245e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Brony_NinjaBlack_Beta.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

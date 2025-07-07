@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "1c2381802fb743cc61f9c2d4fa4ff2ac",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "RE1_Zombie2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

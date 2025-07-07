@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -310,7 +311,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c4bbbb318527892d4d9da191df695fc5",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "agentsmith.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

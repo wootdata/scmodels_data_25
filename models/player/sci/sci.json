@@ -53,6 +53,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "72aeb1512c31fcbc24f3c623ae7c431b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "sci.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

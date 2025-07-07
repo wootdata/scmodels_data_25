@@ -213,6 +213,7 @@
 			"name": "back"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -878,7 +879,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a7f285ff9f18a46953512da1eca3ab7e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Sazabi_Nagato_Nobody.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

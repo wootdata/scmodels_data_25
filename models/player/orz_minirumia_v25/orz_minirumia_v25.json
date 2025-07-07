@@ -203,6 +203,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -810,7 +811,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f90ddda132d7a379e0d9cd86e0d4b166",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "orz_smallrumia_v2_3.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

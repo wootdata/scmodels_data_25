@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1618975988,
 	"events": [
@@ -265,7 +266,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f437cb0be4920d1a7910fcfd78abaf8a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "2d_cold_bernie.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -103,6 +103,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -373,7 +374,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c714d0dc3268dac76cfec1b7a5eeec38",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "cocacolaman.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

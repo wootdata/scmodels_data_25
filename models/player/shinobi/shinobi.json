@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 11,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4e82bff5b3226e31daf2320065a0df17",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "shinobi.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

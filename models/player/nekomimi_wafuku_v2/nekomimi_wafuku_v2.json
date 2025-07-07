@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -305,7 +306,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c3a13e14ff74cb8265bb5e4da84d79a4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "nekomimi_wafuku.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

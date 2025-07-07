@@ -113,6 +113,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -447,7 +448,11 @@
 	],
 	"id": 1414743113,
 	"md5": "aacb654159a41770a3eca1a4180b7c8a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "bunny.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

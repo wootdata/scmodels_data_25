@@ -63,6 +63,7 @@
 			"name": "?"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -333,7 +334,11 @@
 	],
 	"id": 1414743113,
 	"md5": "907152dff3a699c1c92977b2fe810b1d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "touhou_konpaku_youmu.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

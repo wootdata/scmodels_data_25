@@ -43,6 +43,7 @@
 			"name": "cellshade"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "304fa94b1df58643dafef73cab7cc9f6",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ps2trish.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

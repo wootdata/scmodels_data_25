@@ -1,0 +1,70 @@
+[DeathAnim]
+12 150
+13 90
+14 35
+15 125
+16 100
+17 120
+18 140
+
+[RigidBody]
+Spine  5   6  capsule  1 3.5 10   5
+Pelvis 1   2  capsule  -0.5  4  2.5   7
+
+LArm   10   11 capsule  4.5  2  6   3
+LArm2  11  12 capsule  7  2  8   3
+
+RArm   14  15 capsule  4.5  2  6   3
+RArm2  15  16 capsule  7  2  8   3
+
+LLeg   17  19 capsule  10  2  6  4
+LLeg2  19  20 capsule  10.0 2  18.0  4
+
+RLeg   18  21 capsule  10  2  6  4
+RLeg2  21  22 capsule  10.0 2  18.0  4
+
+[Constraint]
+Pelvis Spine  conetwist 1  5    0 0 0   -3 -9 0    0.0  0.0  0.1
+
+Spine  LArm   conetwist 7  9    0 0 0    0 -4  0   0.33 0.33 0.5
+LArm   LArm2  conetwist 9  11   0 0 0    0 -4  0   0.2  0.2  0.2
+
+Spine  RArm   conetwist 8  10   0 0 0    0 -4  0   0.33 0.33 0.5
+RArm   RArm2  conetwist 10 12   0 0 0    0 -4  0   0.2  0.2  0.2
+
+Pelvis LLeg   conetwist 28 28  0 0 0     0 -9  0   0.2  0.2  0.25
+LLeg2  LLeg   hinge     28 28  0 0 0     0 8 0    -0.5  0.0  0.1
+
+Pelvis RLeg   conetwist 29 29  0 0 0     0 -9  0   0.2  0.2  0.25
+RLeg2  RLeg   hinge     29 29  0 0 0     0 8 0    -0.5  0.0  0.1
+
+[Barnacle]
+LLeg2   dof6          0  8  0     40000   4   16
+LLeg2   chewlimit     0  0  0     0       1.0  4
+RLeg    dof6          0  0  0     30000  -16  16
+RLeg    chewlimit     0  0  0     0       1.0  4
+Pelvis  chewforce     0  0  0     8000    1.0  0
+
+[Gargantua]
+Spine   GargMouth   dof6    0  0  0     20000  -16  32
+Pelvis  GargMouth   dof6    0  0  0     20000  -24  64
+
+[WaterControl]
+Spine   0  0  0    0.95  0.5  0
+Pelvis  0  0  0    0.95  0.5  0
+
+LArm    0  0  0    0.95  0.5  0
+LArm2   0  0  0    0.95  0.5  0
+
+RArm    0  0  0    0.95  0.5  0
+RArm2   0  0  0    0.95  0.5  0
+
+LLeg    0  0  0    0.475 0.5  0
+LLeg    8  0  0    0.475 0.5  0
+LLeg2   0  0  0    0.475 0.5  0
+LLeg2   10 0  0    0.475 0.5  0
+
+RLeg    0  0  0    0.475 0.5  0
+RLeg    8  0  0    0.475 0.5  0
+RLeg2   0  0  0    0.475 0.5  0
+RLeg2   10 0  0    0.475 0.5  0

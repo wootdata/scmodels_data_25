@@ -306,6 +306,7 @@
 	"md5": "dbcf17e80a5aa0c8326c7719e3bbe1a8",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 6,
 	"name": "torch.mdl",
 	"preview": true,
 	"readme": true,

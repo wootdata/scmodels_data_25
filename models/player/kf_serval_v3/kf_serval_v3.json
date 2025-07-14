@@ -805,6 +805,7 @@
 	"md5": "5f7f5fc03cc8c9cc136511d3b399c8d9",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 6,
 	"name": "Test.mdl",
 	"preview": true,
 	"readme": false,

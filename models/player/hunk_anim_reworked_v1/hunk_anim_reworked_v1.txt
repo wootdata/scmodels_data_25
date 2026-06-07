@@ -1,0 +1,37 @@
+made by __MINER 
+
+https://steamcommunity.com/id/__MINER/
+
+# complete rework of sven animations except 
+
+# its not easy to make something like this even for copied animation from mixamorig alot of scripting involved to make that happen 
+
+# egon animation is forever broken and wont be fixed due to blender issue and bone orientations and if fixed it will mess up displacer animations since they both use same animations
+
+# added smooth animations for wrist , elbows and knees ( no longer breaks when kneel aim .. etc ) due to goldsrc 0 or 1 vertex weights
+
+# fixed mesh breakage of hips
+
+# with new 5 bone controllers your eyes will be on the target will a little lean for weapons ( but breaks default animations if no weapon equiped fair tradeoff )
+
+# fullbright eyes textures
+
+# added full hand animations and fixed positioning of hands to aproximate for ins weapons w/o nade
+
+# some giggle hip physics when running 
+
+# crawl animations can make you a little bit taller but I measured distance for most vents 
+
+# some gabs may appear due to vertex animations limitations and performance 76 bones to animte is quite high for goldsrc
+
+message me if you consider donnating or requesting for sven coop model animations ( i dont take NSFW models and only do animations but can refer you to some websites to take models from ) 
+
+
+
+
+
+
+
+
+
+

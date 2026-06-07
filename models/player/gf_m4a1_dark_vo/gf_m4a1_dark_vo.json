@@ -202,7 +202,7 @@
 			"type": 8
 		}
 	],
-	"date": 1703621062,
+	"date": 1780811534,
 	"events": [
 		{
 			"event": 5004,
@@ -790,6 +790,7 @@
 	"md5": "a3704e4d580bfa17359e7f5b0eb96701",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "gfl_m4a1_dark.mdl",
 	"preview": true,
 	"readme": false,

@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 984942650,
+	"date": 1780811534,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "07bc25f5424de9415754ef98ba265892",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "D:\\Models\\Dr_Eastman.mdl",
 	"preview": true,
 	"readme": false,

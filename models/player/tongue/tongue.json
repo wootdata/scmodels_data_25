@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 933158858,
+	"date": 1780811534,
 	"events": [
 		{
 			"event": 2001,
@@ -180,6 +180,7 @@
 	"md5": "9679e9899d95a6ed5cd63a6f1dc74e0f",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "player/Gordon/Gordon.mdl",
 	"preview": true,
 	"readme": false,

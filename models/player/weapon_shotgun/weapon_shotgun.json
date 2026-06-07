@@ -12,11 +12,18 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
+	"date": 1780811534,
 	"events": [],
 	"id": 1414743113,
 	"md5": "f1a0d27b2638c95a8d9a0fe11ee44780",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
+	"modid": 0,
 	"name": "scigun.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

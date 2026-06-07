@@ -1,22 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 27,
+			"bone": 26,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 27,
+			"bone": 26,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 27,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 17,
+			"bone": 26,
 			"name": "",
 			"type": 0
 		}
@@ -25,18 +20,18 @@
 		{
 			"models": [
 				{
-					"name": "Jetpack_Crash",
-					"polys": 871,
-					"verts": 444
+					"name": "Body",
+					"polys": 610,
+					"verts": 334
 				}
 			],
-			"name": "Jetpack_Crash"
+			"name": "body"
 		}
 	],
 	"colorable": false,
 	"controllers": [
 		{
-			"bone": 8,
+			"bone": 14,
 			"end": 30.000000,
 			"index": 0,
 			"rest": 0,
@@ -44,7 +39,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 9,
+			"bone": 15,
 			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
@@ -52,7 +47,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 10,
+			"bone": 16,
 			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
@@ -60,7 +55,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 11,
+			"bone": 17,
 			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
@@ -68,20 +63,55 @@
 			"type": 8
 		}
 	],
-	"date": 1780811534,
+	"date": 1772859797,
 	"events": [
 		{
-			"event": 5004,
-			"frame": 1,
-			"options": "player/playersounds/crash_bandicoot/crash/jump.wav",
-			"sequence": 8,
+			"event": 2001,
+			"frame": 9,
+			"options": "",
+			"sequence": 12,
 			"type": 0
 		}, 
 		{
-			"event": 5004,
-			"frame": 1,
-			"options": "player/playersounds/crash_bandicoot/crash/jump.wav",
-			"sequence": 9,
+			"event": 2001,
+			"frame": 13,
+			"options": "",
+			"sequence": 13,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 15,
+			"options": "",
+			"sequence": 14,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 8,
+			"options": "",
+			"sequence": 15,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 22,
+			"options": "",
+			"sequence": 16,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 16,
+			"options": "",
+			"sequence": 17,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 22,
+			"options": "",
+			"sequence": 18,
 			"type": 0
 		}, 
 		{
@@ -265,28 +295,14 @@
 			"options": "muzzle_spaw.txt",
 			"sequence": 175,
 			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 1,
-			"options": "player/playersounds/crash_bandicoot/crash/woah.wav",
-			"sequence": 182,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 1,
-			"options": "player/playersounds/crash_bandicoot/crash/woah.wav",
-			"sequence": 184,
-			"type": 0
 		}
 	],
 	"id": 1414743113,
-	"md5": "22201650379255c4c19a80ca36368db8",
+	"md5": "640453421e6c582c6d69dc96aa17de9a",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
 	"modid": 7,
-	"name": "Jetpack_Crash.mdl",
+	"name": "ShotGHECU.mdl",
 	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
@@ -358,7 +374,7 @@
 		}, 
 		{
 			"fps": 26.000000,
-			"frames": 36,
+			"frames": 25,
 			"name": "die_backwards1"
 		}, 
 		{
@@ -423,7 +439,7 @@
 		}, 
 		{
 			"fps": 13.000000,
-			"frames": 2,
+			"frames": 1,
 			"name": "ref_hold_wrench"
 		}, 
 		{
@@ -438,7 +454,7 @@
 		}, 
 		{
 			"fps": 13.000000,
-			"frames": 2,
+			"frames": 1,
 			"name": "crouch_hold_wrench"
 		}, 
 		{
@@ -463,7 +479,7 @@
 		}, 
 		{
 			"fps": 15.000000,
-			"frames": 2,
+			"frames": 1,
 			"name": "ref_hold_gren"
 		}, 
 		{
@@ -488,7 +504,7 @@
 		}, 
 		{
 			"fps": 15.000000,
-			"frames": 2,
+			"frames": 1,
 			"name": "crouch_hold_gren"
 		}, 
 		{
@@ -1198,7 +1214,7 @@
 		}, 
 		{
 			"fps": 10.000000,
-			"frames": 31,
+			"frames": 1,
 			"name": "ShannonCaldwell_v1.2"
 		}, 
 		{
@@ -1247,7 +1263,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 2008176,
+	"size": 925840,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1270,16 +1286,40 @@
 			"parent": 3
 		}, 
 		{
+			"name": "Bip01 L Toe0",
+			"parent": 4
+		}, 
+		{
+			"name": "Bip01 L Toe01",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 L Toe02",
+			"parent": 6
+		}, 
+		{
 			"name": "Bip01 R Leg",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 5
+			"parent": 8
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 6
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 R Toe0",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 R Toe01",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 R Toe02",
+			"parent": 12
 		}, 
 		{
 			"name": "Bip01 Spine",
@@ -1287,113 +1327,137 @@
 		}, 
 		{
 			"name": "Bip01 Spine1",
-			"parent": 8
-		}, 
-		{
-			"name": "Bip01 Spine2",
-			"parent": 9
-		}, 
-		{
-			"name": "Bip01 Spine3",
-			"parent": 10
-		}, 
-		{
-			"name": "Bip01 Neck",
-			"parent": 11
-		}, 
-		{
-			"name": "Bip01 Head",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 L Arm",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 L Arm1",
 			"parent": 14
 		}, 
 		{
-			"name": "Bip01 L Arm2",
+			"name": "Bip01 Spine2",
 			"parent": 15
 		}, 
 		{
-			"name": "Bip01 L Hand",
+			"name": "Bip01 Spine3",
 			"parent": 16
 		}, 
 		{
-			"name": "Bip01 L Finger0",
+			"name": "Bip01 Neck",
 			"parent": 17
 		}, 
 		{
-			"name": "Bip01 L Finger01",
+			"name": "Bip01 L Arm",
 			"parent": 18
 		}, 
 		{
-			"name": "Bip01 L Finger02",
+			"name": "Bip01 L Arm1",
 			"parent": 19
 		}, 
 		{
-			"name": "Bip01 L Finger1",
-			"parent": 17
+			"name": "Bip01 L Arm2",
+			"parent": 20
 		}, 
 		{
-			"name": "Bip01 L Finger11",
+			"name": "Bip01 L Hand",
 			"parent": 21
 		}, 
 		{
-			"name": "Bip01 L Finger12",
-			"parent": 22
-		}, 
-		{
 			"name": "Bip01 R Arm",
-			"parent": 12
+			"parent": 18
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 24
+			"parent": 23
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 25
+			"parent": 24
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 26
+			"parent": 25
 		}, 
 		{
-			"name": "Bip01 R Finger0",
-			"parent": 27
-		}, 
-		{
-			"name": "Bip01 R Finger01",
-			"parent": 28
-		}, 
-		{
-			"name": "Bip01 R Finger02",
-			"parent": 29
-		}, 
-		{
-			"name": "Bip01 R Finger1",
-			"parent": 27
-		}, 
-		{
-			"name": "Bip01 R Finger11",
-			"parent": 31
-		}, 
-		{
-			"name": "Bip01 R Finger12",
-			"parent": 32
+			"name": "Bip01 Head",
+			"parent": 18
 		}
 	],
 	"skins": 1,
 	"t_model": false,
 	"textures": [
 		{
-			"flags": 64,
-			"height": 1024,
-			"name": "JetpackCrashTex.bmp",
-			"width": 1024
+			"flags": 0,
+			"height": 100,
+			"name": "bodyarmorfnt.bmp",
+			"width": 144
+		}, 
+		{
+			"flags": 0,
+			"height": 33,
+			"name": "armortop.bmp",
+			"width": 52
+		}, 
+		{
+			"flags": 0,
+			"height": 127,
+			"name": "pantfront.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 14,
+			"name": "pack.bmp",
+			"width": 48
+		}, 
+		{
+			"flags": 0,
+			"height": 117,
+			"name": "newarm.bmp",
+			"width": 76
+		}, 
+		{
+			"flags": 0,
+			"height": 33,
+			"name": "bootfront.bmp",
+			"width": 16
+		}, 
+		{
+			"flags": 0,
+			"height": 21,
+			"name": "bootside.bmp",
+			"width": 20
+		}, 
+		{
+			"flags": 0,
+			"height": 38,
+			"name": "handgrip.bmp",
+			"width": 24
+		}, 
+		{
+			"flags": 0,
+			"height": 37,
+			"name": "Handback.bmp",
+			"width": 32
+		}, 
+		{
+			"flags": 0,
+			"height": 20,
+			"name": "handfront.bmp",
+			"width": 24
+		}, 
+		{
+			"flags": 3,
+			"height": 64,
+			"name": "goggle_chrome.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 16,
+			"name": "shotgunheadgoggletrim.bmp",
+			"width": 32
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "shotgunheadside.bmp",
+			"width": 64
 		}
 	],
 	"version": 10

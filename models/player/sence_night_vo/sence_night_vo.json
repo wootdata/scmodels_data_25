@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1702914114,
+	"date": 1780811534,
 	"events": [
 		{
 			"event": 5004,
@@ -271,6 +271,7 @@
 	"md5": "a28b2df8dbda09a47398ae567f84e31c",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 6,
 	"name": "sence_night.mdl",
 	"preview": true,
 	"readme": false,

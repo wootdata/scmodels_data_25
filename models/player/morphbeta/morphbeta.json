@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 957187874,
+	"date": 1780811534,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "a40bd269c50315874b045d69e4fd7e04",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/morphbeta/morphbeta.mdl",
 	"preview": true,
 	"readme": false,

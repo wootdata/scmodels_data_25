@@ -47,7 +47,7 @@
 			"type": 32
 		}
 	],
-	"date": 1190301614,
+	"date": 1780811534,
 	"events": [
 		{
 			"event": 6,
@@ -201,6 +201,7 @@
 	"md5": "6b646bb186f3a891975bb35646e81cf7",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 0,
 	"name": "C:\\Milkie_project1\\garg.mdl",
 	"preview": true,
 	"readme": false,

@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1695753738,
+	"date": 1780811534,
 	"events": [
 		{
 			"event": 5004,
@@ -285,6 +285,7 @@
 	"md5": "054321a1e3d2d06eb35bbe1811bc7c80",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "Crash_Alt.mdl",
 	"preview": true,
 	"readme": false,

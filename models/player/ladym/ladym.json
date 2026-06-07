@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1185446094,
+	"date": 1780811534,
 	"events": [
 		{
 			"event": 2001,
@@ -180,6 +180,7 @@
 	"md5": "757978db16c07832726ba6c63d4a8603",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "player/Hgrunt/dawn.mdl",
 	"preview": true,
 	"readme": false,

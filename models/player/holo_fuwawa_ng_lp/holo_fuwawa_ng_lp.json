@@ -25,142 +25,12 @@
 		{
 			"models": [
 				{
-					"name": "null",
-					"polys": 240,
-					"verts": 62
+					"name": "Fuwa",
+					"polys": 685,
+					"verts": 360
 				}
 			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "1",
-					"polys": 2038,
-					"verts": 1055
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "2",
-					"polys": 1848,
-					"verts": 959
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "3",
-					"polys": 2546,
-					"verts": 1210
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "4",
-					"polys": 168,
-					"verts": 138
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "5",
-					"polys": 384,
-					"verts": 223
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "6",
-					"polys": 1028,
-					"verts": 530
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "7",
-					"polys": 2514,
-					"verts": 1303
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "8",
-					"polys": 2790,
-					"verts": 1429
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "9",
-					"polys": 1220,
-					"verts": 647
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "10",
-					"polys": 1840,
-					"verts": 960
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "11",
-					"polys": 754,
-					"verts": 385
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "12",
-					"polys": 1940,
-					"verts": 974
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "13",
-					"polys": 140,
-					"verts": 94
-				}
-			],
-			"name": "body"
+			"name": "Fuwawa"
 		}
 	],
 	"colorable": false,
@@ -204,37 +74,21 @@
 			"rest": 0,
 			"start": 0.000000,
 			"type": 32
-		}, 
-		{
-			"bone": 17,
-			"end": 15.000000,
-			"index": 1,
-			"rest": 0,
-			"start": -15.000000,
-			"type": 8
-		}, 
-		{
-			"bone": 18,
-			"end": 15.000000,
-			"index": 1,
-			"rest": 0,
-			"start": -15.000000,
-			"type": 8
 		}
 	],
-	"date": 1780811534,
+	"date": 1734435750,
 	"events": [
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/jump.wav",
+			"options": "player/playersounds/botan/botanjump.wav",
 			"sequence": 8,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/jump2.wav",
+			"options": "player/playersounds/botan/botanjump2.wav",
 			"sequence": 9,
 			"type": 0
 		}, 
@@ -289,92 +143,78 @@
 		}, 
 		{
 			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/hutao/weapget_meel.wav",
+			"frame": 1,
+			"options": "player/playersounds/botan/weapget_meel2.wav",
 			"sequence": 19,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/weapget_meel.wav",
+			"options": "player/playersounds/botan/weapget_meel1.wav",
 			"sequence": 22,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/charge.wav",
+			"options": "player/playersounds/botan/charge2.wav",
 			"sequence": 25,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/bash.wav",
+			"options": "player/playersounds/botan/charge2_shoot.wav",
 			"sequence": 27,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/charge.wav",
+			"options": "player/playersounds/botan/charge1.wav",
 			"sequence": 28,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/bash.wav",
+			"options": "player/playersounds/botan/charge1_shoot.wav",
 			"sequence": 30,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/weapget_gren.wav",
+			"options": "player/playersounds/botan/weapget_gren2.wav",
 			"sequence": 31,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
-			"frame": 3,
-			"options": "player/playersounds/hutao/shoot2.wav",
-			"sequence": 35,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/hutao/weapget_gren.wav",
+			"frame": 1,
+			"options": "player/playersounds/botan/weapget_gren1.wav",
 			"sequence": 36,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/hutao/shoot2.wav",
-			"sequence": 40,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/hutao/weapget_trip.wav",
+			"frame": 1,
+			"options": "player/playersounds/botan/weapget_gren3.wav",
 			"sequence": 41,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/hutao/weapget_trip.wav",
+			"frame": 1,
+			"options": "player/playersounds/botan/weapget_gren3.wav",
 			"sequence": 44,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/hutao/weapget1.wav",
+			"frame": 1,
+			"options": "player/playersounds/botan/weapget04.wav",
 			"sequence": 47,
 			"type": 0
 		}, 
@@ -388,7 +228,14 @@
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/weapget1.wav",
+			"options": "player/playersounds/botan/reloading01.wav",
+			"sequence": 50,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/botan/weapget04.wav",
 			"sequence": 51,
 			"type": 0
 		}, 
@@ -402,7 +249,14 @@
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/weapget1.wav",
+			"options": "player/playersounds/botan/reloading06.wav",
+			"sequence": 54,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/botan/weapget04.wav",
 			"sequence": 55,
 			"type": 0
 		}, 
@@ -416,7 +270,14 @@
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/weapget1.wav",
+			"options": "player/playersounds/botan/reloading02.wav",
+			"sequence": 58,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/botan/weapget04.wav",
 			"sequence": 59,
 			"type": 0
 		}, 
@@ -430,7 +291,14 @@
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/weapget2.wav",
+			"options": "player/playersounds/botan/reloading05.wav",
+			"sequence": 62,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/botan/weapget01.wav",
 			"sequence": 63,
 			"type": 0
 		}, 
@@ -444,7 +312,7 @@
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/weapget2.wav",
+			"options": "player/playersounds/botan/weapget01.wav",
 			"sequence": 67,
 			"type": 0
 		}, 
@@ -458,7 +326,7 @@
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/weapget3.wav",
+			"options": "player/playersounds/botan/weapget_rare1.wav",
 			"sequence": 71,
 			"type": 0
 		}, 
@@ -472,7 +340,7 @@
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/weapget3.wav",
+			"options": "player/playersounds/botan/weapget_rare2.wav",
 			"sequence": 74,
 			"type": 0
 		}, 
@@ -486,7 +354,7 @@
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/weapget2.wav",
+			"options": "player/playersounds/botan/weapget02.wav",
 			"sequence": 77,
 			"type": 0
 		}, 
@@ -500,7 +368,14 @@
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/weapget2.wav",
+			"options": "player/playersounds/botan/reloading04.wav",
+			"sequence": 80,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/botan/weapget02.wav",
 			"sequence": 81,
 			"type": 0
 		}, 
@@ -513,22 +388,29 @@
 		}, 
 		{
 			"event": 5004,
-			"frame": 0,
-			"options": "player/playersounds/hutao/shoot.wav",
-			"sequence": 87,
+			"frame": 1,
+			"options": "player/playersounds/botan/reloading03.wav",
+			"sequence": 84,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
-			"frame": 0,
-			"options": "player/playersounds/hutao/shoot.wav",
-			"sequence": 91,
+			"frame": 1,
+			"options": "player/playersounds/botan/weapget_rare2.wav",
+			"sequence": 93,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/hutao/weapget3.wav",
+			"frame": 1,
+			"options": "player/playersounds/botan/weapget_rare1.wav",
+			"sequence": 96,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/botan/weapget03.wav",
 			"sequence": 105,
 			"type": 0
 		}, 
@@ -541,8 +423,8 @@
 		}, 
 		{
 			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/hutao/weapget3.wav",
+			"frame": 1,
+			"options": "player/playersounds/botan/weapget03.wav",
 			"sequence": 108,
 			"type": 0
 		}, 
@@ -556,7 +438,7 @@
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/weapget3.wav",
+			"options": "player/playersounds/botan/weaponget.wav",
 			"sequence": 111,
 			"type": 0
 		}, 
@@ -576,15 +458,8 @@
 		}, 
 		{
 			"event": 5004,
-			"frame": 0,
-			"options": "player/playersounds/hutao/shoot.wav",
-			"sequence": 115,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/weapget3.wav",
+			"options": "player/playersounds/botan/weapget02.wav",
 			"sequence": 117,
 			"type": 0
 		}, 
@@ -604,43 +479,57 @@
 		}, 
 		{
 			"event": 5004,
-			"frame": 0,
-			"options": "player/playersounds/hutao/shoot.wav",
-			"sequence": 121,
+			"frame": 1,
+			"options": "player/playersounds/botan/reloading02.wav",
+			"sequence": 122,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/hutao/weapget_rare.wav",
+			"frame": 1,
+			"options": "player/playersounds/botan/weapget_rare2.wav",
 			"sequence": 123,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/hutao/weapget_rare.wav",
+			"frame": 1,
+			"options": "player/playersounds/botan/weapget_rare1.wav",
 			"sequence": 126,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/weapget3.wav",
+			"options": "player/playersounds/botan/weapget03.wav",
 			"sequence": 129,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/weapget3.wav",
+			"options": "player/playersounds/botan/reloading06.wav",
+			"sequence": 136,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/botan/weapget03.wav",
 			"sequence": 137,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/hutao/weapget3.wav",
+			"frame": 1,
+			"options": "player/playersounds/botan/reloading01.wav",
+			"sequence": 144,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/botan/weaponget.wav",
 			"sequence": 145,
 			"type": 0
 		}, 
@@ -653,15 +542,22 @@
 		}, 
 		{
 			"event": 5004,
-			"frame": 0,
-			"options": "player/playersounds/hutao/shoot.wav",
-			"sequence": 148,
+			"frame": 1,
+			"options": "player/playersounds/botan/reloadintense02.wav",
+			"sequence": 149,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/hutao/weapget3.wav",
+			"frame": 1,
+			"options": "player/playersounds/botan/reloading03.wav",
+			"sequence": 150,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/botan/weaponget.wav",
 			"sequence": 151,
 			"type": 0
 		}, 
@@ -674,9 +570,23 @@
 		}, 
 		{
 			"event": 5004,
-			"frame": 0,
-			"options": "player/playersounds/hutao/shoot.wav",
-			"sequence": 154,
+			"frame": 1,
+			"options": "player/playersounds/botan/reloadintense02.wav",
+			"sequence": 155,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/botan/reloading03.wav",
+			"sequence": 156,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/botan/weapget02.wav",
+			"sequence": 157,
 			"type": 0
 		}, 
 		{
@@ -695,9 +605,16 @@
 		}, 
 		{
 			"event": 5004,
-			"frame": 0,
-			"options": "player/playersounds/hutao/shoot.wav",
-			"sequence": 161,
+			"frame": 1,
+			"options": "player/playersounds/botan/reloading01.wav",
+			"sequence": 162,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/botan/weaponget.wav",
+			"sequence": 163,
 			"type": 0
 		}, 
 		{
@@ -716,15 +633,15 @@
 		}, 
 		{
 			"event": 5004,
-			"frame": 0,
-			"options": "player/playersounds/hutao/shoot.wav",
-			"sequence": 167,
+			"frame": 1,
+			"options": "player/playersounds/botan/reloading02.wav",
+			"sequence": 168,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/hutao/weapget3.wav",
+			"frame": 1,
+			"options": "player/playersounds/botan/weapget01.wav",
 			"sequence": 169,
 			"type": 0
 		}, 
@@ -738,7 +655,14 @@
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/weapget3.wav",
+			"options": "player/playersounds/botan/reloading06.wav",
+			"sequence": 172,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/botan/weapget01.wav",
 			"sequence": 173,
 			"type": 0
 		}, 
@@ -752,38 +676,17 @@
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/bchit.wav",
-			"sequence": 182,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 66,
-			"options": "player/playersounds/hutao/bc.wav",
-			"sequence": 183,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 1,
-			"options": "player/playersounds/hutao/bcbite.wav",
-			"sequence": 184,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 34,
-			"options": "player/playersounds/hutao/bcbite2.wav",
-			"sequence": 184,
+			"options": "player/playersounds/botan/reloadintense02.wav",
+			"sequence": 176,
 			"type": 0
 		}
 	],
 	"id": 1414743113,
-	"md5": "f3b03e91e66345ed33aa62fa17853fc1",
+	"md5": "d110fcb082977cd05a7dd0dd1f086876",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
 	"modid": 7,
-	"name": "gi_hutao_dark.mdl",
+	"name": "player/Hololive_Fuwawa_NG/Hololive_Fuwawa_NG.mdl",
 	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
@@ -791,7 +694,7 @@
 		{
 			"fps": 14.000000,
 			"frames": 52,
-			"name": "By_Kazamii"
+			"name": "Ported by Tap_chan"
 		}, 
 		{
 			"fps": 14.000000,
@@ -825,7 +728,7 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 32,
+			"frames": 18,
 			"name": "crouch_idle"
 		}, 
 		{
@@ -1035,7 +938,7 @@
 		}, 
 		{
 			"fps": 16.000000,
-			"frames": 8,
+			"frames": 13,
 			"name": "ref_shoot_onehanded"
 		}, 
 		{
@@ -1055,12 +958,12 @@
 		}, 
 		{
 			"fps": 16.000000,
-			"frames": 8,
+			"frames": 13,
 			"name": "crouch_shoot_onehanded"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 32,
+			"frames": 33,
 			"name": "crouch_reload_onehanded"
 		}, 
 		{
@@ -1075,12 +978,12 @@
 		}, 
 		{
 			"fps": 16.000000,
-			"frames": 8,
+			"frames": 13,
 			"name": "ref_shoot_python"
 		}, 
 		{
 			"fps": 15.000000,
-			"frames": 58,
+			"frames": 53,
 			"name": "ref_reload_python"
 		}, 
 		{
@@ -1095,12 +998,12 @@
 		}, 
 		{
 			"fps": 16.000000,
-			"frames": 8,
+			"frames": 13,
 			"name": "crouch_shoot_python"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 48,
+			"frames": 53,
 			"name": "crouch_reload_python"
 		}, 
 		{
@@ -1155,7 +1058,7 @@
 		}, 
 		{
 			"fps": 15.000000,
-			"frames": 8,
+			"frames": 13,
 			"name": "ref_shoot_gauss"
 		}, 
 		{
@@ -1170,7 +1073,7 @@
 		}, 
 		{
 			"fps": 15.000000,
-			"frames": 8,
+			"frames": 13,
 			"name": "crouch_shoot_gauss"
 		}, 
 		{
@@ -1185,7 +1088,7 @@
 		}, 
 		{
 			"fps": 30.000000,
-			"frames": 8,
+			"frames": 13,
 			"name": "ref_shoot_mp5"
 		}, 
 		{
@@ -1205,7 +1108,7 @@
 		}, 
 		{
 			"fps": 30.000000,
-			"frames": 8,
+			"frames": 13,
 			"name": "crouch_shoot_mp5"
 		}, 
 		{
@@ -1225,12 +1128,12 @@
 		}, 
 		{
 			"fps": 18.000000,
-			"frames": 8,
+			"frames": 13,
 			"name": "ref_shoot_rpg"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 25,
+			"frames": 33,
 			"name": "ref_reload_rpg"
 		}, 
 		{
@@ -1245,12 +1148,12 @@
 		}, 
 		{
 			"fps": 18.000000,
-			"frames": 8,
+			"frames": 13,
 			"name": "crouch_shoot_rpg"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 25,
+			"frames": 33,
 			"name": "crouch_reload_rpg"
 		}, 
 		{
@@ -1295,7 +1198,7 @@
 		}, 
 		{
 			"fps": 14.000000,
-			"frames": 12,
+			"frames": 13,
 			"name": "ref_shoot_squeak"
 		}, 
 		{
@@ -1310,12 +1213,12 @@
 		}, 
 		{
 			"fps": 14.000000,
-			"frames": 12,
+			"frames": 13,
 			"name": "crouch_shoot_squeak"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 8,
+			"frames": 12,
 			"name": "ref_draw_hive"
 		}, 
 		{
@@ -1325,7 +1228,7 @@
 		}, 
 		{
 			"fps": 15.000000,
-			"frames": 8,
+			"frames": 13,
 			"name": "ref_shoot_hive"
 		}, 
 		{
@@ -1340,7 +1243,7 @@
 		}, 
 		{
 			"fps": 15.000000,
-			"frames": 8,
+			"frames": 13,
 			"name": "crouch_shoot_hive"
 		}, 
 		{
@@ -1355,7 +1258,7 @@
 		}, 
 		{
 			"fps": 15.000000,
-			"frames": 8,
+			"frames": 13,
 			"name": "ref_shoot_bow"
 		}, 
 		{
@@ -1365,7 +1268,7 @@
 		}, 
 		{
 			"fps": 15.000000,
-			"frames": 8,
+			"frames": 13,
 			"name": "ref_shoot_bowscope"
 		}, 
 		{
@@ -1385,7 +1288,7 @@
 		}, 
 		{
 			"fps": 15.000000,
-			"frames": 8,
+			"frames": 13,
 			"name": "crouch_shoot_bow"
 		}, 
 		{
@@ -1395,7 +1298,7 @@
 		}, 
 		{
 			"fps": 15.000000,
-			"frames": 8,
+			"frames": 13,
 			"name": "crouch_shoot_bowscope"
 		}, 
 		{
@@ -1450,17 +1353,17 @@
 		}, 
 		{
 			"fps": 18.000000,
-			"frames": 8,
+			"frames": 13,
 			"name": "ref_shoot_uzis_both"
 		}, 
 		{
 			"fps": 18.000000,
-			"frames": 8,
+			"frames": 13,
 			"name": "ref_shoot_uzis_right"
 		}, 
 		{
 			"fps": 18.000000,
-			"frames": 8,
+			"frames": 13,
 			"name": "ref_shoot_uzis_left"
 		}, 
 		{
@@ -1481,7 +1384,7 @@
 		{
 			"fps": 12.000000,
 			"frames": 24,
-			"name": "crouch_draw_uzis_left_blend1"
+			"name": "crouch_draw_uzis_left"
 		}, 
 		{
 			"fps": 12.000000,
@@ -1490,17 +1393,17 @@
 		}, 
 		{
 			"fps": 18.000000,
-			"frames": 8,
+			"frames": 13,
 			"name": "crouch_shoot_uzis_both"
 		}, 
 		{
 			"fps": 18.000000,
-			"frames": 8,
+			"frames": 13,
 			"name": "crouch_shoot_uzis_right"
 		}, 
 		{
 			"fps": 18.000000,
-			"frames": 8,
+			"frames": 13,
 			"name": "crouch_shoot_uzis_left"
 		}, 
 		{
@@ -1525,17 +1428,17 @@
 		}, 
 		{
 			"fps": 30.000000,
-			"frames": 8,
+			"frames": 13,
 			"name": "ref_shoot_m16"
 		}, 
 		{
 			"fps": 30.000000,
-			"frames": 8,
+			"frames": 13,
 			"name": "ref_shoot_m203"
 		}, 
 		{
 			"fps": 32.000000,
-			"frames": 102,
+			"frames": 103,
 			"name": "ref_reload_m16"
 		}, 
 		{
@@ -1555,17 +1458,17 @@
 		}, 
 		{
 			"fps": 30.000000,
-			"frames": 8,
+			"frames": 13,
 			"name": "crouch_shoot_m16"
 		}, 
 		{
 			"fps": 30.000000,
-			"frames": 8,
+			"frames": 13,
 			"name": "crouch_shoot_m203"
 		}, 
 		{
 			"fps": 32.000000,
-			"frames": 102,
+			"frames": 103,
 			"name": "crouch_reload_m16"
 		}, 
 		{
@@ -1585,7 +1488,7 @@
 		}, 
 		{
 			"fps": 15.000000,
-			"frames": 8,
+			"frames": 13,
 			"name": "ref_shoot_sniper"
 		}, 
 		{
@@ -1595,7 +1498,7 @@
 		}, 
 		{
 			"fps": 15.000000,
-			"frames": 8,
+			"frames": 13,
 			"name": "ref_shoot_sniperscope"
 		}, 
 		{
@@ -1615,7 +1518,7 @@
 		}, 
 		{
 			"fps": 15.000000,
-			"frames": 8,
+			"frames": 13,
 			"name": "crouch_shoot_sniper"
 		}, 
 		{
@@ -1625,7 +1528,7 @@
 		}, 
 		{
 			"fps": 15.000000,
-			"frames": 8,
+			"frames": 13,
 			"name": "crouch_shoot_sniperscope"
 		}, 
 		{
@@ -1645,7 +1548,7 @@
 		}, 
 		{
 			"fps": 15.000000,
-			"frames": 8,
+			"frames": 13,
 			"name": "ref_shoot_saw"
 		}, 
 		{
@@ -1665,7 +1568,7 @@
 		}, 
 		{
 			"fps": 15.000000,
-			"frames": 8,
+			"frames": 13,
 			"name": "crouch_shoot_saw"
 		}, 
 		{
@@ -1696,7 +1599,7 @@
 		{
 			"fps": 10.000000,
 			"frames": 81,
-			"name": "ShannonCaldwell_v1.2"
+			"name": "barnaclepull"
 		}, 
 		{
 			"fps": 20.000000,
@@ -1721,7 +1624,7 @@
 		{
 			"fps": 30.000000,
 			"frames": 91,
-			"name": "Convert_By_Kazamii"
+			"name": "Port By Foxer"
 		}, 
 		{
 			"fps": 14.000000,
@@ -1736,340 +1639,15 @@
 		{
 			"fps": 12.000000,
 			"frames": 152,
-			"name": "Random Animation xDD"
+			"name": "Animations by Tap"
 		}, 
 		{
 			"fps": 12.000000,
 			"frames": 82,
 			"name": "Random stretch body"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "kazotskykickp1"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "kazotskykickp2"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "kazotskykickp3"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "breakdance1"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "breakdance2"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "breakdance3"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "twerkdancep1"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "twerkdancep2"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "hiphopdance1"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "hiphopdance2"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "soulspinc"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "snakedancev1p1"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "snakedancev1p2"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "swingdancep1"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "swingdancep2"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "swingdancep3"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 127,
-			"name": "northernsoulp1"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "northernsoulp2"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "macarena"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "funky"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "floss"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "smugdance"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "bandofthefort"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "drivin"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "hipsway"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "flair"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "dancing"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "shuffle2v1p1"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "shuffle2v1p2"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "shuffle2v1p3"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "shuffle4v1p1"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "shuffle4v1p2"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "shuffle4v1p3"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "shuffle5v1p1"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "shuffle5v1p2"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "shuffle5v1p3"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "shuffle5v1p4"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "shuffle6v1p1"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "shuffle6v1p2"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "shuffle6v1p3"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "shuffle7v1p1"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "shuffle7v1p2"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "shuffle7v1p3"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "shuffle8v2p1"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "shuffle8v2p2"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "shuffle8v2p3"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "shuffle9v1p1"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "shuffle9v1p2"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "shuffle9v1p3"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "shuffle9v1p4"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "shuffle9v1p5"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "chikadancep1"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "chikadancep2"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "chikadancep3"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "chikadancep4"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "chikadancep5"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "chikadancep6"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "chikadancep7"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "chikadancep8"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "chikadancep9"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "chikadancep10"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "chikadancep11"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "chikadancep12"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "chikadancep13"
-		}, 
-		{
-			"fps": 21.000000,
-			"frames": 128,
-			"name": "chikadancep14"
 		}
 	],
-	"size": 6142472,
+	"size": 834116,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -2136,48 +1714,16 @@
 			"parent": 6
 		}, 
 		{
-			"name": "Bip22 Head_helper",
-			"parent": 15
-		}, 
-		{
-			"name": "Bip22 Head_eyes_l",
-			"parent": 16
-		}, 
-		{
-			"name": "Bip22 Head_eyes_r",
-			"parent": 16
-		}, 
-		{
-			"name": "Bip22 L elbow1-smooth",
-			"parent": 8
-		}, 
-		{
-			"name": "Bip22 R elbow1-smooth",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip22 R elbow2-smooth",
-			"parent": 12
-		}, 
-		{
 			"name": "Bip01 L Leg",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 L Leg1",
-			"parent": 22
+			"parent": 16
 		}, 
 		{
 			"name": "Bip01 L Foot",
-			"parent": 23
-		}, 
-		{
-			"name": "Bip22 L knee2-smooth",
-			"parent": 22
-		}, 
-		{
-			"name": "Bip22 L knee1-smooth",
-			"parent": 22
+			"parent": 17
 		}, 
 		{
 			"name": "Bip01 R Leg",
@@ -2185,34 +1731,14 @@
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 27
+			"parent": 19
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 28
+			"parent": 20
 		}, 
 		{
-			"name": "Bip22 R knee2-smooth",
-			"parent": 27
-		}, 
-		{
-			"name": "Bip22 R knee1-smooth",
-			"parent": 27
-		}, 
-		{
-			"name": "Bip22 L Leg-smooth2",
-			"parent": 1
-		}, 
-		{
-			"name": "Bip22 R Leg-smooth2",
-			"parent": 1
-		}, 
-		{
-			"name": "Bip22 L Leg-smooth1",
-			"parent": 1
-		}, 
-		{
-			"name": "Bip22 R Leg-smooth1",
+			"name": "Bip01 Tail",
 			"parent": 1
 		}
 	],
@@ -2220,40 +1746,10 @@
 	"t_model": false,
 	"textures": [
 		{
-			"flags": 1,
-			"height": 256,
-			"name": "null.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 1,
-			"height": 1024,
-			"name": "cloth_d.bmp",
-			"width": 1024
-		}, 
-		{
-			"flags": 1,
-			"height": 1024,
-			"name": "hair_d.bmp",
-			"width": 1024
-		}, 
-		{
-			"flags": 1,
-			"height": 1024,
-			"name": "face_d.bmp",
-			"width": 1024
-		}, 
-		{
-			"flags": 4,
-			"height": 512,
-			"name": "glow1.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 36,
-			"height": 512,
-			"name": "eyes.bmp",
-			"width": 512
+			"flags": 65,
+			"height": 128,
+			"name": "fuwawa.bmp",
+			"width": 128
 		}
 	],
 	"version": 10
